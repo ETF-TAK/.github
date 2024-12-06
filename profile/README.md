@@ -12,21 +12,6 @@ ETF, 이제 쉽게 비교하세요
 
 <br>
 
-## 💻 Front: 
-[Frontend Repo](https://github.com/ETF-TAK/FE)
-
-<br>
-
-## 💻 Back: 
-[Backend Repo](https://github.com/ETF-TAK/BE)
-
-<br>
-
-## 🎨 디자인
-[ETF-TAK_Figma](https://www.figma.com/design/bOI6xGJcMPNUvgaKXUl9q7/Untitled?node-id=0-1&t=w4oRxS4DpmBnMSo5-1)
-
-<br>
-
 ## 📝 어플리케이션 기능
 1. 1년 전에 투자했다면? <br>
 💰 기능 설명 1 <br>
@@ -50,6 +35,21 @@ ETF, 이제 쉽게 비교하세요
 <br>
 
 ## 📹 데모 영상
+
+<br>
+
+## 💻 Front: 
+[Frontend Repo](https://github.com/ETF-TAK/FE)
+
+<br>
+
+## 💻 Back: 
+[Backend Repo](https://github.com/ETF-TAK/BE)
+
+<br>
+
+## 🎨 디자인
+[ETF-TAK_Figma](https://www.figma.com/design/bOI6xGJcMPNUvgaKXUl9q7/Untitled?node-id=0-1&t=w4oRxS4DpmBnMSo5-1)
 
 <br>
 
