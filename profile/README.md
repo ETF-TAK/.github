@@ -8,7 +8,8 @@
 <br>
 
 ## 📆 프로젝트 기간
-24/11/12 ~ 24/12/04
+### 24/11/12 ~ 24/12/04
+![image](https://github.com/user-attachments/assets/9774fc7b-f135-4a34-8bdd-005e848b4ded)
 
 <br>
 
