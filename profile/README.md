@@ -70,8 +70,8 @@
   </tr>
   <tr>
     <td align="center"> <b>팀장</b><br>증권사 API 활용<br>무중단 배포<br>ETF 비교하기 UI<br>비교하기 API 구현 </td>
-    <td align="center"> <b>팀장</b><br>증권사 API 활용<br>ETF 정보 불러오기<br>상세페이지 UI<br>상세페이지 API 구현 </td>
     <td align="center"> <b>팀장</b><br>기획<br>디자인<br>react<br>springboot </td>
+    <td align="center"> <b>팀장</b><br>증권사 API 활용<br>ETF 정보 불러오기<br>상세페이지 UI<br>상세페이지 API 구현 </td>
     <td align="center"> <b>팀장</b><br>기획<br>디자인<br>react<br>springboot </td>
   </tr>
 </table>
