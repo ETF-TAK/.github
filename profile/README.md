@@ -36,6 +36,7 @@
 <br>
 
 ## 📹 데모 영상
+![etfTak_demo_final](https://github.com/user-attachments/assets/1d0e9ec5-58be-4201-96f6-32f6fba54355)
 
 <br>
 
