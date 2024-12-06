@@ -3,7 +3,7 @@
 ![logo](https://github.com/user-attachments/assets/5e4deb83-8752-4f5c-8a55-8307f46fdf3b)
 
 ## 💰💸 소개
-ETF, 이제 쉽게 비교하세요
+### ETF, 이제 쉽게 비교하세요
 
 <br>
 
